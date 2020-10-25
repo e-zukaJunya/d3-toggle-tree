@@ -1,0 +1,18 @@
+﻿body {
+}
+
+.node {
+    cursor: pointer;
+}
+
+    .node rect {
+        stroke-width: 1.5px;
+        /*display: none;*/
+    }
+
+.link {
+    fill: none;
+    stroke: black;
+    stroke-opacity: 0.6;
+    stroke-width: 1.5px;
+}
